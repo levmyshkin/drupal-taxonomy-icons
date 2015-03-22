@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Site Made Ru Features Taxonomy Icons feature.
+ */
+
+include_once 'site_made_ru_features_taxonomy_icons.features.inc';
